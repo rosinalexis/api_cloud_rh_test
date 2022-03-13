@@ -1,6 +1,6 @@
-# YSPI CLOUD RH V5 BACKEND API
+# CLOUD RH V5 BACKEND API
 
-YPSI CLOUD RH V5 BACKEND API  est l'api backend de l'application Ypsi cloud RH.
+CLOUD RH V5 BACKEND API  est l'api backend de l'applicationcloud RH.
 Il est écrit en PHP via SYMFONY 3.5.10
 
 ## Environnement de développement
