@@ -1,7 +1,7 @@
 # CLOUD RH V5 BACKEND API
 
 CLOUD RH V5 BACKEND API  est l'api backend de l'applicationcloud RH.
-Il est écrit en PHP via SYMFONY 3.5.10
+Il est écrit en PHP via SYMFONY 5.3
 
 ## Environnement de développement
 
@@ -31,8 +31,8 @@ symfony serve -d
 ### Connexion à la base de données docker
 
 ```bash
-docker exec -it ypsicloudrh_database_5 mysql -u root -p
-docker exec -it ypsicloudrh_database_5 bash
+docker exec -it cloudrh_database_5 mysql -u root -p
+docker exec -it cloudrh_database_5 bash
 ```
 
 ### Supprimer l'environnement de développement docker
